@@ -1,0 +1,13 @@
+C:\Users\Mati_ferrero\Desktop\Test Técnico - Mavha\Aplicacion Web .aspx - VB\Aplicacion Web .aspx - VB\bin\Aplicacion_Web.aspx___VB.dll.config
+C:\Users\Mati_ferrero\Desktop\Test Técnico - Mavha\Aplicacion Web .aspx - VB\Aplicacion Web .aspx - VB\bin\Aplicacion_Web.aspx___VB.dll
+C:\Users\Mati_ferrero\Desktop\Test Técnico - Mavha\Aplicacion Web .aspx - VB\Aplicacion Web .aspx - VB\bin\Aplicacion_Web.aspx___VB.pdb
+C:\Users\Mati_ferrero\Desktop\Test Técnico - Mavha\Aplicacion Web .aspx - VB\Aplicacion Web .aspx - VB\bin\Aplicacion_Web.aspx___VB.xml
+C:\Users\Mati_ferrero\Desktop\Test Técnico - Mavha\Aplicacion Web .aspx - VB\Aplicacion Web .aspx - VB\obj\Debug\Aplicacion Web .aspx - VB.vbprojResolveAssemblyReference.cache
+C:\Users\Mati_ferrero\Desktop\Test Técnico - Mavha\Aplicacion Web .aspx - VB\Aplicacion Web .aspx - VB\obj\Debug\Aplicacion_Web.aspx___VB.Resources.resources
+C:\Users\Mati_ferrero\Desktop\Test Técnico - Mavha\Aplicacion Web .aspx - VB\Aplicacion Web .aspx - VB\obj\Debug\Aplicacion Web .aspx - VB.vbproj.GenerateResource.Cache
+C:\Users\Mati_ferrero\Desktop\Test Técnico - Mavha\Aplicacion Web .aspx - VB\Aplicacion Web .aspx - VB\obj\Debug\Aplicacion_Web.aspx___VB.dll
+C:\Users\Mati_ferrero\Desktop\Test Técnico - Mavha\Aplicacion Web .aspx - VB\Aplicacion Web .aspx - VB\obj\Debug\Aplicacion_Web.aspx___VB.xml
+C:\Users\Mati_ferrero\Desktop\Test Técnico - Mavha\Aplicacion Web .aspx - VB\Aplicacion Web .aspx - VB\obj\Debug\Aplicacion_Web.aspx___VB.pdb
+C:\Users\Mati_ferrero\Desktop\Test Técnico - Mavha\Aplicacion Web .aspx - VB\Aplicacion Web .aspx - VB\bin\Negocio_logica.dll
+C:\Users\Mati_ferrero\Desktop\Test Técnico - Mavha\Aplicacion Web .aspx - VB\Aplicacion Web .aspx - VB\bin\Negocio_logica.pdb
+C:\Users\Mati_ferrero\Desktop\Test Técnico - Mavha\Aplicacion Web .aspx - VB\Aplicacion Web .aspx - VB\bin\Negocio_logica.xml

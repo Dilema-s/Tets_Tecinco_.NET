@@ -1,0 +1,9 @@
+C:\Users\Mati_ferrero\Desktop\Test Técnico - Mavha\Aplicacion Web .aspx - VB\Negocio_logica\bin\Debug\Negocio_logica.dll
+C:\Users\Mati_ferrero\Desktop\Test Técnico - Mavha\Aplicacion Web .aspx - VB\Negocio_logica\bin\Debug\Negocio_logica.pdb
+C:\Users\Mati_ferrero\Desktop\Test Técnico - Mavha\Aplicacion Web .aspx - VB\Negocio_logica\bin\Debug\Negocio_logica.xml
+C:\Users\Mati_ferrero\Desktop\Test Técnico - Mavha\Aplicacion Web .aspx - VB\Negocio_logica\obj\Debug\Negocio_logica.vbprojResolveAssemblyReference.cache
+C:\Users\Mati_ferrero\Desktop\Test Técnico - Mavha\Aplicacion Web .aspx - VB\Negocio_logica\obj\Debug\Negocio_logica.Resources.resources
+C:\Users\Mati_ferrero\Desktop\Test Técnico - Mavha\Aplicacion Web .aspx - VB\Negocio_logica\obj\Debug\Negocio_logica.vbproj.GenerateResource.Cache
+C:\Users\Mati_ferrero\Desktop\Test Técnico - Mavha\Aplicacion Web .aspx - VB\Negocio_logica\obj\Debug\Negocio_logica.dll
+C:\Users\Mati_ferrero\Desktop\Test Técnico - Mavha\Aplicacion Web .aspx - VB\Negocio_logica\obj\Debug\Negocio_logica.xml
+C:\Users\Mati_ferrero\Desktop\Test Técnico - Mavha\Aplicacion Web .aspx - VB\Negocio_logica\obj\Debug\Negocio_logica.pdb
